@@ -154,7 +154,7 @@ return [
     |
     */
 
-    'app_name' => env('SHOPIFY_APP_NAME', 'Shopify App'),
+    'app_name' => env('SHOPIFY_APP_NAME', 'GemCalculator'),
 
     /*
     |--------------------------------------------------------------------------
@@ -179,7 +179,7 @@ return [
     |
     */
 
-    'api_key' => env('SHOPIFY_API_KEY', ''),
+    'api_key' => env('SHOPIFY_API_KEY', '4d396e157ea7a3af5c8f9f01bb9705e4'),
 
     /*
     |--------------------------------------------------------------------------
@@ -190,7 +190,7 @@ return [
     |
     */
 
-    'api_secret' => env('SHOPIFY_API_SECRET', ''),
+    'api_secret' => env('SHOPIFY_API_SECRET', '9bb5f2e6c2311a74107709019f0aaa6d'),
 
     /*
     |--------------------------------------------------------------------------
