@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    this is customer log shopify app
-</body> 
+    i am gemtool app
+</body>
 </html>
